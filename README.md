@@ -10,17 +10,17 @@ The modules currently uploaded are for:
 3. Calculating window kernels for Gaussian covariance (Survey_window_kernels.ipynb)
    - The corresponding formulae are in CovaPT_Formulae.pdf
 
-For ease in viewing different modules in this notebook, please install [jupyter_contrib_nbextensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html) and activate [collapsible headings](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/collapsible_headings/readme.html)
+For ease in viewing different modules in these notebooks, please install [jupyter_contrib_nbextensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html) and activate [collapsible headings](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/collapsible_headings/readme.html)
 
 The following remaining modules will be uploaded soon (apologies for the delay):
   
 * Hexadecapole calculations in addition to Monopole+Quadrupole
  
 * Calculating cartesian FFTs from the survey random catalog
-  - which are needed for Covariance_SurveyGeometry.ipynb
+    - which are needed for Covariance_SurveyGeometry.ipynb
 
 * Code for calculating the Fisher forecast in Fig.1 of [arXiv:2009.00622](https://arxiv.org/abs/2009.00622)
- - This uses the [CLASS-PT code](https://github.com/Michalychforever/CLASS-PT). I'll also upload a notebook showing how CovaPT can be used with CLASS-PT.
+    - This uses the [CLASS-PT code](https://github.com/Michalychforever/CLASS-PT). I'll also upload a notebook showing how CovaPT can be used with CLASS-PT.
 
 If you are interested in more details about a particular part of the calculation, please feel free to email me at: jay.wadekar@nyu.edu
 
