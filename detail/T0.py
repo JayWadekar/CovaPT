@@ -1,5 +1,5 @@
 # Here are the expressions used to calculate the tree-level trispectrum
-# These (horrible) expressions are copy-pasted from a mathematica notebook,
+# These (horrible) expressions were copy-pasted from a mathematica notebook,
 # which shows their derivation and will be uploaded soon
 
 import numpy as np
