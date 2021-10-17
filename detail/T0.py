@@ -1,6 +1,7 @@
 # Here are the expressions used to calculate the tree-level trispectrum
-# These (horrible) expressions were copy-pasted from a mathematica notebook,
-# which shows their derivation and will be uploaded soon
+# These (horrible) expressions were copy-pasted from the
+# mathematica notebook (Generating_T0_Z12_expressions.nb),
+# which shows their derivation
 
 import numpy as np
 
@@ -8,6 +9,7 @@ def InitParameters(arr):
     global b1,be,g2,b2,g3,g2x,g21,b3
     [b1,be,g2,b2,g3,g2x,g21,b3]=arr
 
+# Shot noise term in Eq. 92
 def e24o44(u12,k1,k2):
     if(l1==0 and l2==0):
         return((15 + 10*be + 3*be**2)/15.)

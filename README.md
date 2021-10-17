@@ -22,7 +22,7 @@ The following remaining modules will be uploaded soon (apologies for the delay):
 * Code for calculating the Fisher forecast in Fig.1 of [arXiv:2009.00622](https://arxiv.org/abs/2009.00622)
     - This uses the [CLASS-PT code](https://github.com/Michalychforever/CLASS-PT). I'll also upload a notebook showing how CovaPT can be used with CLASS-PT.
 
-If you are interested in more details about a particular part of the calculation, please feel free to email me at: jay.wadekar@nyu.edu
+If you are interested in more details about a particular part of the calculation, please feel free to email me at: jayw@ias.edu
 
 I would love to hear feedback about the accesibility of the code and if adding any more modules for the power spectrum covariance would be useful.
 
