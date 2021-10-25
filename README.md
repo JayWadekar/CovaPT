@@ -24,9 +24,11 @@ The following remaining modules will be uploaded soon (apologies for the delay):
 
 If you are interested in more details about a particular part of the calculation, please feel free to email me at: jayw@ias.edu
 
-I would love to hear feedback about the accesibility of the code and if adding any more modules for the power spectrum covariance would be useful.
+I would love to hear feedback about the accesibility of the code and if adding any more modules for the power spectrum covariance would be useful. I also thank Albert Chuang, Yan Lai for helpful comments related to the code.
 
-Authors: Digvijay (Jay) Wadekar and Roman Scoccimarro
+Authors: Jay Wadekar and Roman Scoccimarro
 
 The input data files used in the code can be downloaded from
 [here](https://drive.google.com/drive/folders/1bWKfUaIXcC1n-2hk9KtKhqukxTH1379i?usp=sharing)
+
+
