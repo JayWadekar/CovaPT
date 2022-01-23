@@ -19,6 +19,9 @@
 
 
 
+(* Author of this file: Roman Scoccimarro, rs123@nyu.edu *)
+
+
 Unprotect[soi,I1,I1q,I2,I22,I2q,I3,the,inti,saint,dist];
 
 

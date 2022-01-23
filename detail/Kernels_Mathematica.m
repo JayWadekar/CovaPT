@@ -21,6 +21,9 @@ overwritten.
 
 
 
+(* Author of this file: Roman Scoccimarro, rs123@nyu.edu *)
+
+
 Attributes[dot]={Orderless,Listable};
 dot[x_?AtomQ,x_?AtomQ]:= x^2;
 dot[-x_,y_]:= -dot[x,y];
