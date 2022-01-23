@@ -14,8 +14,8 @@ The modules currently uploaded are for:
 3. Calculating window kernels for Gaussian covariance (Survey_window_kernels.ipynb)
    - The corresponding formulae are in CovaPT_Formulae.pdf
    
-4. Calculating cartesian FFTs from the survey random catalog
-    - which are needed for Covariance_SurveyGeometry.ipynb
+4. Calculating cartesian FFTs from the survey random catalog (./detail/Survey_Window_FFTs.ipynb)
+    - which are needed for Survey_window_kernels.ipynb
 
 For ease in viewing different modules in these notebooks, please install [jupyter_contrib_nbextensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html) and activate [collapsible headings](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/collapsible_headings/readme.html)
 
